@@ -177,6 +177,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## 📞 Contact
 Zubair - [GitHub Profile](https://github.com/zubair-csc)
 
-Project Link: [https://github.com/your-username/015-AugmentaFlow](https://github.com/your-username/015-AugmentaFlow)
+Project Link: [https://github.com/zubair-csc/015-AugmentaFlow](https://github.com/your-username/015-AugmentaFlow)
 
 ⭐ Star this repository if you found it helpful!
